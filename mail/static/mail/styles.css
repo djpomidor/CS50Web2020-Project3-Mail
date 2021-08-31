@@ -8,3 +8,9 @@ textarea {
     border-width: thin;
     padding: 3px;
 }
+
+tr {
+    border: 1px;
+    border-style: solid;
+    border-color: #dee2e6;
+}
